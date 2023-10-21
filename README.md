@@ -1,1 +1,1 @@
-Created new repository vostok
+Created new repository vostok and testing pull.
